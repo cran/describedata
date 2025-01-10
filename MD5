@@ -1,6 +1,6 @@
-278a6fef8c3f8dd59c401fb4c9dabd18 *DESCRIPTION
+0196634ff29ae059c798926e82cdbc02 *DESCRIPTION
 008402b3eca8e1110e0276e2a6a9648e *NAMESPACE
-9aa2001fa4fd6090538edc0e92e91206 *NEWS.md
+f93d76b69430278bf5d44bd01b47ff79 *NEWS.md
 9d69235a87b7012bd98f6546d1cf8cf5 *R/bivariate_compare.R
 bdba08218d084ac426dd11574b96ec9b *R/describedata.R
 a65f6dbea0a8accb71a2255fb19543e1 *R/ladder.R
@@ -11,7 +11,7 @@ ae3f95db379b61dbf6c7753ae3d1dee7 *R/pwcorr.R
 ab506cd3f321517afb18c5900fb69d67 *R/sample_flow.R
 12e29e85bbcfc2ed479aeb4c0ecc283d *R/stata_tidy.R
 2e6f416d62a70492a2868796a6f56eb7 *R/univar_freq.R
-954444521964c6a7dbc587da5511d66f *README.md
+1705fbe9683836431ef929b5f9676765 *README.md
 a37e4729069d7bacac2c43fcfb49a829 *man/bivariate_compare.Rd
 05e9299ce2bf60d50143d5ddf1512cc5 *man/cor.prob.Rd
 702edf34db4a6156cc64abc59bec0a41 *man/describedata.Rd
@@ -25,4 +25,4 @@ ccb24c96fc9acee452c3949454b1db43 *man/pwcorr.Rd
 e590e1ff867a3490f9edcf424eaa18a8 *man/stata_tidy.Rd
 a2d2f20e03930ec768e397cc25d5c277 *man/univar_freq.Rd
 3ed30fc47b93ff70821b5cc5c2cc17c1 *tests/testthat.R
-3b21255425e2070dde55f4a8c65bec10 *tests/testthat/test-bivariate_compare.R
+233a233dc468f27daeb9536ec86d25bb *tests/testthat/test-bivariate_compare.R
